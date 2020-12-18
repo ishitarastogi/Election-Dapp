@@ -23,9 +23,7 @@ module.exports = {
           },
           evmVersion: "istanbul" // Default: "istanbul"
         },
-        modelCheckerSettings: {
-          // contains options for SMTChecker
-        }
+       
       }
     }
 };
